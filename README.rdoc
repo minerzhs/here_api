@@ -15,6 +15,7 @@ Nodejs
 * Configuration
 
 * Database creation
+development: run mongod --dbpath ~/Code/rails/here_api/db/ first to connect the db
 
 * Database initialization
 

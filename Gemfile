@@ -1,5 +1,8 @@
 source 'https://ruby.taobao.org/'
 
+gem 'mongoid', '~> 4.0.0'
+gem 'thin'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.3'
 
